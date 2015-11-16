@@ -3600,6 +3600,13 @@ public final class Settings {
          */
         public static final String STATUS_BAR_CLOCK_DATE_POSITION = "status_bar_clock_date_position";
 
+
+         * Whether to dismiss all recents tasks
+         * @hide
+         */
+        public static final String RECENTS_CLEAR_ALL_DISMISS_ALL = "recents_clear_all_dismiss_all";
+
+        /**
          * Location of the clear all recents button
          * @hide
          */
