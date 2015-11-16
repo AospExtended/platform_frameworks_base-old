@@ -3600,6 +3600,18 @@ public final class Settings {
          */
         public static final String STATUS_BAR_CLOCK_DATE_POSITION = "status_bar_clock_date_position";
 
+         * Location of the clear all recents button
+         * @hide
+         */
+        public static final String RECENTS_CLEAR_ALL_LOCATION = "recents_clear_all_location";
+
+        /**
+         * Show clear all recents button
+         * @hide
+         */
+        public static final String SHOW_CLEAR_ALL_RECENTS = "show_clear_all_recents";
+
+
         /**
          * Settings to backup. This is here so that it's in the same place as the settings
          * keys and easy to update.
