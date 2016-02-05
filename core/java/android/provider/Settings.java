@@ -3620,6 +3620,12 @@ public final class Settings {
 
 
         /**
+         * Show search bar in recents
+         * 0 = 0ff, 1 = on
+         */
+        public static final String RECENTS_SHOW_SEARCH_BAR = "recents_show_search_bar";
+
+        /**
          * Settings to backup. This is here so that it's in the same place as the settings
          * keys and easy to update.
          *
