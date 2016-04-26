@@ -17,7 +17,5 @@ implied.
     <!-- Is Advanced Reboot enabled? -->
     <bool name="config_advanced_reboot">true</bool>
 
-    <!-- Show battery fully charged notification -->
-    <bool name="config_showBatteryFullyChargedNotification">false</bool>
 
 </resources>

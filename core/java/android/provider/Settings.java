@@ -3626,6 +3626,12 @@ public final class Settings {
         public static final String RECENTS_SHOW_SEARCH_BAR = "recents_show_search_bar";
 
         /**
+         * Whether to show the battery fully charged notification
+         * @hide
+         */
+        public static final String BATTERY_FULLY_CHARGED_NOTIFICATION = "battery_fully_charged_notification";
+
+        /**
          * Settings to backup. This is here so that it's in the same place as the settings
          * keys and easy to update.
          *
