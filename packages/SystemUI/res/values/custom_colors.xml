@@ -15,46 +15,6 @@
      limitations under the License.
 -->
 <resources>
-
-    <color name="navbutton_ripple_color">#ffffffff</color>
-
-    <!-- Colors for the system bars -->
-    <color name="status_bar_background_opaque">@color/system_bar_background_opaque</color>
-    <color name="status_bar_background_semi_transparent">
-        @color/system_bar_background_semi_transparent
-    </color>
-    <color name="status_bar_background_transparent">@color/system_bar_background_transparent</color>
-    <color name="navigation_bar_background_opaque">@color/system_bar_background_opaque</color>
-    <color name="navigation_bar_background_semi_transparent">
-        @color/system_bar_background_semi_transparent
-    </color>
-    <color name="navigation_bar_background_transparent">
-        @color/system_bar_background_transparent
-    </color>
-
-    <!-- Floating action button -->
-    <color name="fab_color">#ff009688</color>
-    <color name="floating_action_button_icon_color">#ffffff</color>
-
-    <!-- Color for the RAM bar text in the recent view -->
-    <color name="ram_bar_text">#FFFFFFFF</color>
-
-    <!-- Screenshot Crop & Share -->
-    <color name="crop_handle">#E0E0E0</color>
-    <color name="crop_frame">#E0E0E0</color>
-    <color name="crop_guide">#E0E0E0</color>
-    <color name="crop_action_overlay">#263238</color>
-    <color name="crop_draw_color_1">@android:color/white</color>
-    <color name="crop_draw_color_2">@android:color/black</color>
-    <color name="crop_draw_color_3">#9E9E9E</color>
-    <color name="crop_draw_color_4">#F44336</color>
-    <color name="crop_draw_color_5">#4CAF50</color>
-    <color name="crop_draw_color_6">#2196F3</color>
-    <color name="crop_draw_color_7">#FF9800</color>
-    <color name="crop_draw_color_8">#FFEB3B</color>
-    <color name="ripple_material_light">#40000000</color>
-    <color name="ripple_material_dark">#40ffffff</color>	
-
     <!-- No recents logo and text colors --> 
     <color name="no_recents_one">#5affffff</color>
     <color name="no_recents_two">#5affffff</color>
