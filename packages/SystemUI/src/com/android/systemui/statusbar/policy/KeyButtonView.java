@@ -54,8 +54,6 @@ public class KeyButtonView extends ImageView {
     private boolean mGestureAborted;
     private boolean mPerformedLongClick;
 
-    private boolean mPerformedLongClick;
-
     private final Runnable mCheckLongPress = new Runnable() {
         public void run() {
             if (isPressed()) {
