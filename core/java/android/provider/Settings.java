@@ -3600,7 +3600,7 @@ public final class Settings {
          */
         public static final String STATUS_BAR_CLOCK_DATE_POSITION = "status_bar_clock_date_position";
 
-
+        /**
          * Whether to dismiss all recents tasks
          * @hide
          */
